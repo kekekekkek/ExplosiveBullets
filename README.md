@@ -25,6 +25,7 @@ When you start the game and connect to your server, you will have the following 
 | `.ebao`, `/ebao` or `!ebao` | `0` | `1` | `1` | Allows you to enable this feature only for admins or for all players.<br>`0 - For everyone;`<br>`1 - Admins only.` | Usage: `.ebao//ebao/!ebao <adminsonly>.` Example: `!ebao 0` |
 | `.ebr`, `/ebr` or `!ebr` | `-` | `-` | `-` | Allows you to reset the settings to the default settings. | `No arguments.` |
 
-**REMEMBER**: This plugin is a reworking of another plugin called [BulletTracer](https://github.com/kekekekkek/BulletTracer)<br>
+**REMEMBER**: This plugin only works for admins. If you want the plugin to work for everyone, you need to enter the command `!ebao 0` in chat.<br>
+**REMEMBER**: This plugin is a reworking of another plugin called [BulletTracer](https://github.com/kekekekkek/BulletTracer).<br>
 **REMEMBER**: This plugin, like the [BulletTracer](https://github.com/kekekekkek/BulletTracer) plugin, doesn't use the `WeaponSecondaryAttack` and `WeaponTertiaryAttack` hooks, as there will be some peculiarities to consider. You can finalize this yourself if you want.<br>
 **REMEMBER**: Also, this plugin works fine with the [BulletTracer](https://github.com/kekekekkek/BulletTracer) plugin.
